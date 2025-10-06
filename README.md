@@ -1,7 +1,7 @@
 # Cybersecurity Study Journal
 
 ## Overview  
-Welcome to my Cybersecurity Study Journal, a daily log of my 90-day journey to learn cybersecurity from scratch through hands-on labs, courses, projects, and certification preparation.
+Hi there! Welcome to my Cybersecurity Study Journal, a daily log of my 90-day journey to learn cybersecurity from scratch through hands-on labs, courses, projects, and certification preparation.
 
 This journal documents my progress, challenges, solutions, and reflections as I work toward an entry-level cybersecurity role.
 
